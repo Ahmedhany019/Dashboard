@@ -135,6 +135,9 @@
 }
 /* End Head  */
 /* Start Content  */
+.content{
+    width: calc(100% - 250px);
+}
 h1::before{
     content: "";
     position: absolute;
